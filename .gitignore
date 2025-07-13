@@ -1,0 +1,48 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# SQLx query cache (keep this for offline compilation)
+# .sqlx/
+
+# Docker
+.dockerignore
+
+# Backup files
+*.bak
+*.backup
