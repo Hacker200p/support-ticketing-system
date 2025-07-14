@@ -38,8 +38,8 @@ A comprehensive backend system for managing customer support tickets built with 
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd major_rust_projectc
+git clone https://github.com/Hacker200p/support-ticketing-system.git
+cd support-ticketing-systtem
 ```
 
 ### 2. Set Up Database
